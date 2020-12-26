@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Code\ExamNew\obj\Debug\ExamNew.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Code\ExamNew\obj\Debug\ExamNew.Properties.Resources.resources
+C:\Users\User\Desktop\Code\ExamNew\obj\Debug\ExamNew.Views.LoginForm.resources
+C:\Users\User\Desktop\Code\ExamNew\obj\Debug\ExamNew.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Code\ExamNew\bin\Debug\ExamNew.exe.config
+C:\Users\User\Desktop\Code\ExamNew\bin\Debug\ExamNew.exe
+C:\Users\User\Desktop\Code\ExamNew\bin\Debug\ExamNew.pdb
+C:\Users\User\Desktop\Code\ExamNew\obj\Debug\ExamNew.exe
+C:\Users\User\Desktop\Code\ExamNew\obj\Debug\ExamNew.pdb
